@@ -1,0 +1,14 @@
+timestamp,road,lat,lon,current_speed,free_flow_speed,current_travel_time,free_flow_travel_time,confidence,road_closure,frc
+2026-10-24 13:30:57,King Fahd Rd - Olaya,24.7136,46.6753,71,71,707,707,1,False,FRC3
+2026-10-24 13:30:57,Northern Ring Rd - KAFD,24.7743,46.6385,56,89,470,295,1,False,FRC0
+2026-10-24 13:30:57,Eastern Ring Rd - Exit 10,24.7562,46.7487,107,107,23,23,1,False,FRC0
+2026-10-24 13:30:57,Southern Ring Rd - Shubra,24.5821,46.6892,66,66,41,41,1,False,FRC3
+2026-10-24 13:30:57,Western Ring Rd - Dhahrat Laban,24.6437,46.5921,110,110,250,250,1,False,FRC0
+2026-10-24 13:30:57,Makkah Rd - Al Mutamarat,24.6712,46.6914,47,62,198,150,0.93,False,FRC4
+2026-10-24 13:30:57,Khurais Rd - Al Malaz,24.7088,46.7326,47,54,511,444,0.956683,False,FRC4
+2026-10-24 13:30:57,King Abdullah Rd - Al Wurud,24.7431,46.6834,62,62,1073,1073,1,False,FRC3
+2026-10-24 13:30:57,King Abdulaziz Rd - Al Yasmin,24.8115,46.6453,52,61,1387,1182,0.972768,True,FRC5
+2026-10-24 13:30:57,Prince Turki Rd - Hittin,24.7618,46.6112,35,37,1190,1126,0.868903,True,FRC3
+2026-10-24 13:30:57,King Khalid Rd - Hittin,24.7391,46.5881,86,86,14,14,1,False,FRC1
+2026-10-24 13:30:57,Takhassusi St - Al Mohammadiyyah,24.7295,46.6573,85,85,186,186,1,False,FRC1
+2026-10-24 13:30:57,Olaya St - Al Olaya,24.6975,46.6852,30,37,583,473,0.98434,False,FRC4
