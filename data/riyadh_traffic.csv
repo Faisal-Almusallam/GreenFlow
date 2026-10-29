@@ -2833,3 +2833,16 @@ timestamp,road,lat,lon,current_speed,free_flow_speed,current_travel_time,free_fl
 2026-10-30 01:45:45,King Khalid Rd - Hittin,24.7391,46.5881,86,86,14,14,1,False,FRC1
 2026-10-30 01:45:45,Takhassusi St - Al Mohammadiyyah,24.7295,46.6573,85,85,186,186,1,False,FRC1
 2026-10-30 01:45:45,Olaya St - Al Olaya,24.6975,46.6852,24,38,729,460,0.969554,False,FRC4
+2026-10-30 02:22:47,King Fahd Rd - Olaya,24.7136,46.6753,71,71,707,707,1,False,FRC3
+2026-10-30 02:22:47,Northern Ring Rd - KAFD,24.7743,46.6385,90,90,292,292,1,False,FRC0
+2026-10-30 02:22:47,Eastern Ring Rd - Exit 10,24.7562,46.7487,107,107,23,23,1,False,FRC0
+2026-10-30 02:22:47,Southern Ring Rd - Shubra,24.5821,46.6892,66,66,41,41,1,False,FRC3
+2026-10-30 02:22:47,Western Ring Rd - Dhahrat Laban,24.6437,46.5921,110,110,250,250,1,False,FRC0
+2026-10-30 02:22:47,Makkah Rd - Al Mutamarat,24.6712,46.6914,46,61,202,152,0.858364,False,FRC4
+2026-10-30 02:22:47,Khurais Rd - Al Malaz,24.7088,46.7326,54,54,444,444,1,False,FRC4
+2026-10-30 02:22:47,King Abdullah Rd - Al Wurud,24.7431,46.6834,62,62,1073,1073,1,False,FRC3
+2026-10-30 02:22:47,King Abdulaziz Rd - Al Yasmin,24.8115,46.6453,53,60,1361,1202,0.953968,True,FRC5
+2026-10-30 02:22:47,Prince Turki Rd - Hittin,24.7618,46.6112,32,36,1302,1157,0.853951,True,FRC3
+2026-10-30 02:22:47,King Khalid Rd - Hittin,24.7391,46.5881,65,86,19,14,1,False,FRC1
+2026-10-30 02:22:47,Takhassusi St - Al Mohammadiyyah,24.7295,46.6573,85,85,186,186,1,False,FRC1
+2026-10-30 02:22:47,Olaya St - Al Olaya,24.6975,46.6852,27,38,648,460,0.97134,False,FRC4
