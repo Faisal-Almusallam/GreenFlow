@@ -1,14 +1,5 @@
-"""
-Collects live traffic speeds on main roads in Riyadh using the TomTom Traffic Flow API.
-Every run adds one row per road to data/riyadh_traffic.csv.
-
-We run it every 15 minutes with GitHub Actions (.github/workflows/collect.yml).
-The API key has to be in the TOMTOM_KEY environment variable.
-
-Run it by hand:
-    set TOMTOM_KEY=your_key        (Windows)
-    python riyadh_collector.py
-"""
+# gets the current speed on 13 roads in riyadh from tomtom and adds them to data/riyadh_traffic.csv
+# github actions runs it (collect.yml), the key is in the TOMTOM_KEY secret
 import csv
 import json
 import os

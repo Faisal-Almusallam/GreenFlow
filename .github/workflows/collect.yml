@@ -1,8 +1,10 @@
 name: collect riyadh traffic
 
+# the schedule is turned off: we stopped collecting after 8 November 2026 so the
+# data matches the report. To collect again, remove the # in front of the 2 lines below.
 on:
-  schedule:
-    - cron: "*/15 * * * *"
+  # schedule:
+  #   - cron: "*/15 * * * *"
   workflow_dispatch:
 
 permissions:
